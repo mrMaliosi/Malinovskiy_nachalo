@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Владимир/Desktop/Универ/2 курс/nachalo
+# Install script for directory: C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/nachalo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Владимир/Desktop/Универ/2 курс/nachalo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/nachalo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

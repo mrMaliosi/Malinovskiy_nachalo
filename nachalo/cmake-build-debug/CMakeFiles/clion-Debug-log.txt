@@ -1,4 +1,4 @@
-"C:\Program Files (x86)\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -S "C:\Users\Владимир\Desktop\Универ\2 курс\nachalo" -B "C:\Users\Владимир\Desktop\Универ\2 курс\nachalo\cmake-build-debug"
+"C:\Program Files (x86)\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -S "C:\Users\Владимир\Desktop\Универ\2 курс\ООП\Malinovskiy_nachalo\nachalo" -B "C:\Users\Владимир\Desktop\Универ\2 курс\ООП\Malinovskiy_nachalo\nachalo\cmake-build-debug"
 -- Building for: Visual Studio 15 2017
 -- Selecting Windows SDK version 10.0.17763.0 to target Windows 10.0.18362.
 -- The C compiler identification is MSVC 19.16.27045.0
@@ -13,40 +13,40 @@
 -- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx86/x86/cl.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (4.6s)
--- Generating done (0.0s)
+-- Configuring done (5.8s)
+-- Generating done (0.1s)
 CMake Warning:
   Manually-specified variables were not used by the project:
 
     CMAKE_BUILD_TYPE
 
 
--- Build files have been written to: C:/Users/Владимир/Desktop/Универ/2 курс/nachalo/cmake-build-debug
+-- Build files have been written to: C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/nachalo/cmake-build-debug
 
 Cannot get compiler information:
-	Compiler exited with error code 2: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe" @C:\Users\Владимир\AppData\Local\Temp\response-file15255423481922357350 C:\Users\Владимир\AppData\Local\Temp\compiler-file1028735119275928050 | @response-file15255423481922357350=/TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /Be /Bd /EP /w /wd4067
+	Compiler exited with error code 2: "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe" @C:\Users\Владимир\AppData\Local\Temp\response-file756181258300260664 C:\Users\Владимир\AppData\Local\Temp\compiler-file12445889453823341171 | @response-file756181258300260664=/TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /Be /Bd /EP /w /wd4067
 	ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27045 ¤«п x86
 	(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
 	
 	all:
-		@cd C:\Users\‚« ¤Ё¬Ёа\Desktop\“­ЁўҐа\2 Єгаб\nachalo\cmake-build-debug
+		@cd C:\Users\‚« ¤Ё¬Ёа\Desktop\“­ЁўҐа\2 Єгаб\ЋЋЏ\Malinovskiy_nachalo\nachalo\cmake-build-debug
 		@set INCLUDE=
 		@set LIB=
 		@set CL=
 		@set _CL_=
 		@set LINK=
-		C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe @<< C:\Users\‚« ¤Ё¬Ёа\AppData\Local\Temp\compiler-file1028735119275928050
+		C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe @<< C:\Users\‚« ¤Ё¬Ёа\AppData\Local\Temp\compiler-file12445889453823341171
 	/TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /Be /Bd /EP /w /wd4067<<
 	
 	cl /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /Be /Bd /EP /w /wd4067
 	
-	compiler-file1028735119275928050
-	ENC_CWD=C:\Users\‚« ¤Ё¬Ёа\Desktop\“­ЁўҐа\2 Єгаб\nachalo\cmake-build-debug
+	compiler-file12445889453823341171
+	ENC_CWD=C:\Users\‚« ¤Ё¬Ёа\Desktop\“­ЁўҐа\2 Єгаб\ЋЋЏ\Malinovskiy_nachalo\nachalo\cmake-build-debug
 	ENC_CL=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe
-	ENC_SRC=C:\Users\‚« ¤Ё¬Ёа\AppData\Local\Temp\compiler-file1028735119275928050
-	ENC_PDB=C:\Users\‚« ¤Ё¬Ёа\Desktop\“­ЁўҐа\2 Єгаб\nachalo\cmake-build-debug\vc140.pdb
+	ENC_SRC=C:\Users\‚« ¤Ё¬Ёа\AppData\Local\Temp\compiler-file12445889453823341171
+	ENC_PDB=C:\Users\‚« ¤Ё¬Ёа\Desktop\“­ЁўҐа\2 Єгаб\ЋЋЏ\Malinovskiy_nachalo\nachalo\cmake-build-debug\vc140.pdb
 	ENC_CMD=-TP -DWIN32 -D_WINDOWS -EHs -EHc -Ob0 -Od -RTC1 -std:c++17 -MDd -Zi -Bd -EP -w -wd4067 -X
-	`C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\c1xx.dll -zm0x00762080 -il C:\Users\18EE~1\AppData\Local\Temp\_CL_85dad0d2 -typedil -f C:\Users\‚« ¤Ё¬Ёа\AppData\Local\Temp\compiler-file1028735119275928050 -Ze -D_MSC_EXTENSIONS -Zp8 -ZB64 -D_INTEGRAL_MAX_BITS=64 -Gs -Focompiler-file1028735119275928050.obj -pc \:/ -Fdvc140.pdb -D_MSC_VER=1916 -D_MSC_FULL_VER=191627045 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GS -GR -D_CPPRTTI -Zc:forScope -Zc:wchar_t -DWIN32 -D_WINDOWS -EHs -D_CPPUNWIND -EHc -Ot -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -std:c++17 -MDd -D_DEBUG -D_MT -D_DLL -Zi -Bd -E -EP -W 0 -wd 4067'
-	C:\Users\‚« ¤Ё¬Ёа\AppData\Local\Temp\compiler-file1028735119275928050(3): fatal error C1034: version: ­Ґ гЄ § ­ Їгвм Ї®ЁбЄ  ўЄ«оз Ґ¬ле д ©«®ў
+	`C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\c1xx.dll -zm0x00762080 -il C:\Users\18EE~1\AppData\Local\Temp\_CL_6f3c5ee9 -typedil -f C:\Users\‚« ¤Ё¬Ёа\AppData\Local\Temp\compiler-file12445889453823341171 -Ze -D_MSC_EXTENSIONS -Zp8 -ZB64 -D_INTEGRAL_MAX_BITS=64 -Gs -Focompiler-file12445889453823341171.obj -pc \:/ -Fdvc140.pdb -D_MSC_VER=1916 -D_MSC_FULL_VER=191627045 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GS -GR -D_CPPRTTI -Zc:forScope -Zc:wchar_t -DWIN32 -D_WINDOWS -EHs -D_CPPUNWIND -EHc -Ot -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -std:c++17 -MDd -D_DEBUG -D_MT -D_DLL -Zi -Bd -E -EP -W 0 -wd 4067'
+	C:\Users\‚« ¤Ё¬Ёа\AppData\Local\Temp\compiler-file12445889453823341171(3): fatal error C1034: version: ­Ґ гЄ § ­ Їгвм Ї®ЁбЄ  ўЄ«оз Ґ¬ле д ©«®ў
 	
 	
