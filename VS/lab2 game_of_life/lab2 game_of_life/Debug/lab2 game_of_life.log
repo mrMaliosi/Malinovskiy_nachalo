@@ -1,0 +1,11 @@
+﻿  UI.cpp
+c:\users\владимир\desktop\универ\2 курс\ооп\vs\lab2 game_of_life\lab2 game_of_life\ui.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владимир\desktop\универ\2 курс\ооп\vs\lab2 game_of_life\lab2 game_of_life\ui.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владимир\desktop\универ\2 курс\ооп\vs\lab2 game_of_life\lab2 game_of_life\ui.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владимир\desktop\универ\2 курс\ооп\vs\lab2 game_of_life\lab2 game_of_life\ui.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владимир\desktop\универ\2 курс\ооп\vs\lab2 game_of_life\lab2 game_of_life\ui.cpp(138): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\владимир\desktop\универ\2 курс\ооп\vs\lab2 game_of_life\lab2 game_of_life\ui.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+  lab2 game_of_life.cpp
+c:\users\владимир\desktop\универ\2 курс\ооп\vs\lab2 game_of_life\lab2 game_of_life\lab2 game_of_life.cpp(119): warning C4101: error_message: неиспользованная локальная переменная
+  Создание кода...
+  lab2 game_of_life.vcxproj -> C:\Users\Владимир\Desktop\Универ\2 курс\ООП\VS\lab2 game_of_life\Debug\lab2 game_of_life.exe
