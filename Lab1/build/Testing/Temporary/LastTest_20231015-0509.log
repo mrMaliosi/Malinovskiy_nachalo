@@ -1,0 +1,39 @@
+Start testing: Oct 15 13:42 +07
+----------------------------------------------------------
+1/1 Testing: TestCircularBuffer
+1/1 Test: TestCircularBuffer
+Command: "/home/qartest/work/projects/Lab1/build/Tests"
+Directory: /home/qartest/work/projects/Lab1/build
+"TestCircularBuffer" start time: Oct 15 13:42 +07
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from TestCircularBuffer
+[ RUN      ] TestCircularBuffer.simple_test1
+[       OK ] TestCircularBuffer.simple_test1 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test2
+[       OK ] TestCircularBuffer.simple_test2 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test3
+[       OK ] TestCircularBuffer.simple_test3 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test4
+[       OK ] TestCircularBuffer.simple_test4 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test5
+[       OK ] TestCircularBuffer.simple_test5 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test6
+[       OK ] TestCircularBuffer.simple_test6 (0 ms)
+[----------] 6 tests from TestCircularBuffer (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+libgcov profiling error:/home/qartest/work/projects/Lab1/build/CMakeFiles/Tests.dir/src/Tests/tests.gcda:overwriting an existing profile data with a different timestamp
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestCircularBuffer" end time: Oct 15 13:42 +07
+"TestCircularBuffer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 15 13:42 +07

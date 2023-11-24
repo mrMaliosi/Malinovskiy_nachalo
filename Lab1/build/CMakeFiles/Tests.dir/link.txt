@@ -1,0 +1,1 @@
+/usr/bin/g++  --coverage -fprofile-arcs -ftest-coverage -g CMakeFiles/Tests.dir/src/Tests/tests.o -o Tests  src/CircularBuffer/libCircularBuffer.a lib/libgtest.a -lgcov 

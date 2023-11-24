@@ -1,0 +1,42 @@
+Start testing: Oct 16 23:08 +07
+----------------------------------------------------------
+1/1 Testing: TestCircularBuffer
+1/1 Test: TestCircularBuffer
+Command: "/home/qartest/work/projects/Lab1/build/Tests"
+Directory: /home/qartest/work/projects/Lab1/build
+"TestCircularBuffer" start time: Oct 16 23:08 +07
+Output:
+----------------------------------------------------------
+[==========] Running 8 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 8 tests from TestCircularBuffer
+[ RUN      ] TestCircularBuffer.simple_test1
+[       OK ] TestCircularBuffer.simple_test1 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test2
+[       OK ] TestCircularBuffer.simple_test2 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test3
+[       OK ] TestCircularBuffer.simple_test3 (0 ms)
+[ RUN      ] TestCircularBuffer.rotate
+[       OK ] TestCircularBuffer.rotate (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test4
+[       OK ] TestCircularBuffer.simple_test4 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test5
+[       OK ] TestCircularBuffer.simple_test5 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test6
+[       OK ] TestCircularBuffer.simple_test6 (0 ms)
+[ RUN      ] TestCircularBuffer.simple_test7
+[       OK ] TestCircularBuffer.simple_test7 (0 ms)
+[----------] 8 tests from TestCircularBuffer (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 8 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 8 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestCircularBuffer" end time: Oct 16 23:08 +07
+"TestCircularBuffer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 16 23:08 +07

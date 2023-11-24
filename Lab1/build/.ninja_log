@@ -1,0 +1,13 @@
+# ninja log v5
+7	1457	719951918	src/CircularBuffer/CMakeFiles/CircularBuffer.dir/CircularBuffer.obj	41aedb062d748147
+1460	1881	719951918	src/CircularBuffer/libCircularBuffer.a	c028bce22f6f0fe4
+29	2776	719951919	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.obj	34057b3cf83df28c
+1	3389	719951920	CMakeFiles/Tests.dir/src/Tests/tests.obj	cbede49b974ec385
+19	3785	719951920	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.obj	d4d56c62124f4813
+13	6035	719951922	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.obj	bd1d3b5440c9c3da
+24	14570	719951931	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.obj	463946c47e30a950
+14572	18019	719951934	lib/libgtest.a	63b062b89fb4dd39
+18035	18116	719951935	lib/libgtest_main.a	dc802a42a4958ddf
+18028	18596	719951935	lib/libgmock.a	e53464b02acfc7d4
+18596	18681	719951935	lib/libgmock_main.a	1fb1f6b9595aba6
+18022	21978	719951938	Tests.exe	d37c167a2e70149a

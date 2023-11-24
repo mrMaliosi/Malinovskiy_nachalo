@@ -21,8 +21,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="006ac6ef-aff6-4c54-b90d-7d43da8557a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_bitset/googletest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Debug/nachalo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Debug/nachalo.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Debug/nachalo.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Debug/nachalo.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Debug/nachalo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Debug/nachalo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/ZERO_CHECK.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/ZERO_CHECK.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Win32/Debug/ZERO_CHECK/ZERO_CHECK.tlog/custombuild.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/custombuild.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/custombuild.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/custombuild.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/custombuild.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/custombuild.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/custombuild.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/nachalo.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/nachalo.tlog/nachalo.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/nachalo.dir/Debug/vc141.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +78,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "lab1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,11 +88,6 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="nachalo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nachalo" TARGET_NAME="nachalo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="nachalo" RUN_TARGET_NAME="nachalo">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -87,7 +103,8 @@
       <option name="presentableId" value="Default" />
       <updated>1694688800956</updated>
       <workItem from="1694688802300" duration="2474000" />
-      <workItem from="1694701728476" duration="783000" />
+      <workItem from="1694701728476" duration="1380000" />
+      <workItem from="1698318528787" duration="718000" />
     </task>
     <servers />
   </component>

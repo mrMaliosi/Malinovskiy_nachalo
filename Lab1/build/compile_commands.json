@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/src\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest/include\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest\"  --coverage -fprofile-arcs -ftest-coverage -g -std=gnu++17 -o CMakeFiles\\Tests.dir\\src\\Tests\\tests.obj -c \"C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\src\\Tests\\tests.cpp\"",
+  "file": "C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\src\\Tests\\tests.cpp",
+  "output": "CMakeFiles\\Tests.dir\\src\\Tests\\tests.obj"
+},
+{
+  "directory": "C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/src\"  --coverage -fprofile-arcs -ftest-coverage -g -std=gnu++17 -o src\\CircularBuffer\\CMakeFiles\\CircularBuffer.dir\\CircularBuffer.obj -c \"C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\src\\CircularBuffer\\CircularBuffer.cpp\"",
+  "file": "C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\src\\CircularBuffer\\CircularBuffer.cpp",
+  "output": "src\\CircularBuffer\\CMakeFiles\\CircularBuffer.dir\\CircularBuffer.obj"
+},
+{
+  "directory": "C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/src\" -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googlemock/include\" -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googlemock\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest/include\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest\"  --coverage -fprofile-arcs -ftest-coverage -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.obj -c \"C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\googletest\\googlemock\\src\\gmock-all.cc\"",
+  "file": "C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\googletest\\googlemock\\src\\gmock-all.cc",
+  "output": "googletest\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.obj"
+},
+{
+  "directory": "C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/src\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googlemock/include\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googlemock\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest/include\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest\"  --coverage -fprofile-arcs -ftest-coverage -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.obj -c \"C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\googletest\\googlemock\\src\\gmock_main.cc\"",
+  "file": "C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\googletest\\googlemock\\src\\gmock_main.cc",
+  "output": "googletest\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.obj"
+},
+{
+  "directory": "C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/src\" -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest/include\" -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest\"  --coverage -fprofile-arcs -ftest-coverage -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.obj -c \"C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\googletest\\googletest\\src\\gtest-all.cc\"",
+  "file": "C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\googletest\\googletest\\src\\gtest-all.cc",
+  "output": "googletest\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.obj"
+},
+{
+  "directory": "C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -I\"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/src\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest/include\" -isystem \"C:/Users/Владимир/Desktop/Универ/2 курс/ООП/Malinovskiy_nachalo/Lab1/googletest/googletest\"  --coverage -fprofile-arcs -ftest-coverage -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o googletest\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.obj -c \"C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\googletest\\googletest\\src\\gtest_main.cc\"",
+  "file": "C:\\Users\\Владимир\\Desktop\\Универ\\2 курс\\ООП\\Malinovskiy_nachalo\\Lab1\\googletest\\googletest\\src\\gtest_main.cc",
+  "output": "googletest\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.obj"
+}
+]

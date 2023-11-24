@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20231015-0509-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="qartestPK"
+	OSRelease="6.2.0-34-generic"
+	OSVersion="#34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="15873"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4100"
+	>
+	<Testing>
+		<StartDateTime>Oct 15 13:42 +07</StartDateTime>
+		<StartTestTime>1697352159</StartTestTime>
+		<TestList>
+			<Test>./TestCircularBuffer</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TestCircularBuffer</Name>
+			<Path>.</Path>
+			<FullName>./TestCircularBuffer</FullName>
+			<FullCommandLine>/home/qartest/work/projects/Lab1/build/Tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00319151</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/qartest/work/projects/Lab1/build/Tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJydk01PwzAMhu/9FT6yw5p1X4dJHGB8HPjUNk7VhNLWXcPSZDjpCv+etEUTQyBofUrk9/XjWHF4eog1LAqlhNrAFCwaayAlnUNQX8AUwqLvhf1DrOFa6ojLJo9qL0irHJXTou0Xu2/io6Ird5wLigvJ6bxIUyQvhMXTPdSx/iHvG5HvJD5XRQInbuLh5m8xnAwgN702gGEbwLADYNQGMOoAGLcBjDsAJm0Akw6AaRvA9ABo8eUaD1htuex5//vaFjn1E10qL/y6Ob9uDBBX/jHIPevxbLm8vKhm8Gn0PSmiTaz3sCOdClltIRJpmrFM58heOVU6VmraMid5wdgadsujgEWFkAmb3/EtXgmJhq3qgokgZihubqyBbOKEz/QeqSRhK4Trzfe9VebarDrWKVh3rrvXhd0VFkpuXC53pgSMUDGCcAN5ixET04gzZ820TCp3MBiOIXp3BXzvA1QUbIk=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 15 13:42 +07</EndDateTime>
+		<EndTestTime>1697352159</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

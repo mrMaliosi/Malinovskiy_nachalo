@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20231014-1136-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="qartestPK"
+	OSRelease="6.2.0-34-generic"
+	OSVersion="#34~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep  7 13:12:03 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="15873"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4102.21"
+	>
+	<Testing>
+		<StartDateTime>Oct 14 22:58 +07</StartDateTime>
+		<StartTestTime>1697299130</StartTestTime>
+		<TestList>
+			<Test>./TestCircularBuffer</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>TestCircularBuffer</Name>
+			<Path>.</Path>
+			<FullName>./TestCircularBuffer</FullName>
+			<FullCommandLine>/home/qartest/work/projects/Lab1/build/Tests</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00325968</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/qartest/work/projects/Lab1/build/Tests</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJydkkkLwjAQhe/5FXPUQ4u19ujBDQ+CisupFImaSiBLyaJ/39hKsaJo+k4zzJv5SHjpsFYGGysEFRdIwBBtNORKcojKBrSlhoQoDWplMGfyiFk1J+JKlRScCOclJrDFm7lxdOfKCVUny7Aa2zwnCqWw2S+hVPZhHmrKC0YOjyORM1daLX6bodMDrrs+gL4PoN8CEPsA4haAgQ9g0AKQ+ACSGuCRiGoHjDSYddF/yTMEq+AsbwKlr8H+GmhQWIRNkHvWerTdzqaPP3guhugOVVcBXQ==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 14 22:58 +07</EndDateTime>
+		<EndTestTime>1697299130</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
