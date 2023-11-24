@@ -1,0 +1,3 @@
+[submodule "lab1_bitset/googletest"]
+	path = lab1_bitset/googletest
+	url = git@github.com:google/googletest.git

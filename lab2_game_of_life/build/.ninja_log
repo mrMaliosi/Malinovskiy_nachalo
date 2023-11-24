@@ -1,0 +1,7 @@
+# ninja log v5
+27	1972	721158397	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.obj	f6b7249c1064e4be
+17	2293	721158398	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.obj	8e2ee5e8917b0ee6
+12	4416	721158400	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.obj	4ab6ca09399dd7b9
+22	10631	721158406	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.obj	4777ac0feec8fdd9
+5	75	721158534	CMakeFiles/Tests.dir/Tests/test.obj	6f82507370a6f74d
+14	3529	721158537	lib/libgtest.a	63b062b89fb4dd39
